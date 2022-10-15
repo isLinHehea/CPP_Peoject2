@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -rdynamic CMakeFiles/bc.dir/betterCalculator.cpp.o CMakeFiles/bc.dir/Math.cpp.o CMakeFiles/bc.dir/addOrSub.cpp.o CMakeFiles/bc.dir/add.cpp.o CMakeFiles/bc.dir/sub.cpp.o CMakeFiles/bc.dir/mul.cpp.o CMakeFiles/bc.dir/div.cpp.o CMakeFiles/bc.dir/pow.cpp.o CMakeFiles/bc.dir/divLeft.cpp.o -o bc 
